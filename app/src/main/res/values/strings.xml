@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">User Data &amp; Persistence</string>
+    <string name="login_title">User Login</string>
+    <string name="login_subtitle">SQLite Database &amp; SharedPreferences XML Demo</string>
+    <string name="username">Username</string>
+    <string name="username_label">Username:</string>
+    <string name="user_id_label">User ID:</string>
+    <string name="password">Password</string>
+    <string name="password_label">Password:</string>
+    <string name="login">LOGIN</string>
+    <string name="back_to_login">BACK TO LOGIN PAGE</string>
+    <string name="user_profile">User Profile Data</string>
+    <string name="logout">LOGOUT</string>
+    <string name="persistence_info">Credentials saved in SQLite Database.\nSession saved in SharedPreferences XML file.</string>
+    <string name="sqlite_section_header">Data Retrieved from SQLite Database:</string>
+    <string name="pref_section_header">SharedPreferences XML File Location &amp; Contents:</string>
+    <string name="xml_file_path">Path: /data/data/com.shareplate.myapplicationexp9/shared_prefs/UserSession.xml</string>
+    <string name="not_available">Not available in DB</string>
+    <string name="not_applicable">N/A</string>
+    <string name="status_logged_in_at">Session: Saved in UserSession.xml at %1$s</string>
+    <string name="guest">Guest</string>
+    <string name="status_no_active_session">Status: No active session</string>
+</resources>
